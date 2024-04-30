@@ -1,11 +1,11 @@
-# 🔍 Detector de Objetos
-### Este proyecto es un detector de objetos diseñado para identificar y clasificar objetos en imágenes y/o videos. 
-### Utiliza técnicas de visión por IA para reconocer y etiquetar diferentes objetos.
+# 🔐 Sistema de Autenticación Facial con IA
+### Este proyecto consiste en un sistema de autenticación que utiliza inteligencia artificial para comparar el rostro del usuario que intenta iniciar sesión con una base de datos previamente establecida. Una vez autenticado, se abre un acceso al sistema.
 
 # 🚀 Funcionalidades
-- ### Detección de Objetos: El algoritmo es capaz de detectar múltiples objetos en una imagen o un video en tiempo real.
-- ### Clasificación de Objetos: Cada objeto detectado es indentificado.
-- ### Interfaz Gráfica: La interfaz de usuario es intuitiva para cargar imágenes/videos y visualizar los resultados de detección del objeto.
+- ### Este proyecto consiste en un sistema de autenticación que utiliza inteligencia artificial para comparar el rostro del usuario que intenta iniciar sesión con una base de datos previamente establecida. Una vez autenticado, se abre un acceso al sistema.
+- ### Acceso Seguro: Solo los usuarios reconocidos por el sistema tienen acceso al sistema.
+- ### Acceso Seguro: Solo los usuarios reconocidos por el sistema tienen acceso al sistema.
+- ### Control de Acceso: La integración con la placa ESP32 permite activar un mecanismo de apertura de cerradura una vez que el usuario ha sido autenticado.
 
 # 💻 Tecnologías Utilizadas
 ### De momento nigunaaA xd 
