@@ -1,12 +1,9 @@
-# 🔐 Sistema de Autenticación Facial con IA
-### Este proyecto consiste en un sistema de autenticación que utiliza inteligencia artificial para comparar el rostro del usuario que intenta iniciar sesión con una base de datos previamente establecida. Una vez autenticado, se abre un acceso al sistema.
+# 🔐 Sistema de Dispensador de comida con Facial con IA
+### Este proyecto consiste en un sistema dispensador de comida para perros que tiene una autenticación que utiliza inteligencia artificial para comparar el rostro para confirmar que se trate de un perro. Una vez autenticado, habra un mecanismo con un esp32 y un servomotor para comenzar a liberar la comida.
 
 # 🚀 Funcionalidades
-- ### Este proyecto consiste en un sistema de autenticación que utiliza inteligencia artificial para comparar el rostro del usuario que intenta iniciar sesión con una base de datos previamente establecida. Una vez autenticado, se abre un acceso al sistema.
-- ### Acceso Seguro: Solo los usuarios reconocidos por el sistema tienen acceso al sistema.
-- ### Acceso Seguro: Solo los usuarios reconocidos por el sistema tienen acceso al sistema.
-- ### Control de Acceso: La integración con la placa ESP32 permite activar un mecanismo de apertura de cerradura una vez que el usuario ha sido autenticado.
-
+- ### Este proyecto consiste en un sistema de autenticación que utiliza inteligencia artificial para comparar el rostro y sea la de un perro y de un esp32 mas servomotor para la funcionalidad del dispensador. Una vez autenticado, comienza a liberarse la comida.
+- ### Acceso Seguro: Solo los rostros reconocidos como perros podran acceder.
 # 💻 Tecnologías Utilizadas
 ### De momento nigunaaA xd 
 
