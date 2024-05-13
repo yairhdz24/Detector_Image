@@ -12,7 +12,7 @@
 * Servo Motor SG90
 * Protoboard
 * Mínimo 3 cables macho macho
-* Cable UBS a micro USB
+* Cable USB a micro USB
 * IDE Arduino
 * Computadora
 * Materiales para crear el dispensador
