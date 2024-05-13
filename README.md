@@ -17,6 +17,10 @@
 * Computadora
 * Materiales para crear el dispensador
 
+# 🧩 Pasos para configurar placa ESP32
+* Paso 1
+![cables](https://github.com/yairhdz24/Detector_Image/assets/157530840/d801fca0-5481-4aff-9f99-2fbe034b93f7)
+
 # 👥 Integrantes
 - ### Yair Hernandez Ochoa🧑‍💻
 - ### Kevin Ramses Ramirez Gomez🧑‍💼
