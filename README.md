@@ -9,6 +9,6 @@
 
 # 👥 Integrantes
 - ### Yair Hernandez Ochoa🧑‍💻
-- ### Kevin Ramses Ramirez Gomez👩‍💻
+- ### Kevin Ramses Ramirez Gomez🧑‍💼
 - ### Kevin Shalom Herrera Covarrubias🧑‍💼
-- ### Judith Baudelia Villalvazo Marin 🧑‍💼
+- ### Judith Baudelia Villalvazo Marin 👩‍💻
